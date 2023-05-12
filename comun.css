@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+position: relative;
+background: linear-gradient(90deg, rgb(45, 32, 58) 0%, rgb(91, 71, 179) 0%, rgb(18, 10, 36) 100%);
+
+}
+
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:50px;
+    color: rgb(186, 174, 252);
+
+}
+p{
+    margin-left:20px;
+    margin-top:20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:20px;
+    color: rgb(186, 174, 252);
+}
+.trade-img{
+    position:relative;
+    margin-top:20px;
+    margin-left:20px;
+    width: 500px;
+    height:500px;
+}
+.trade-img1{
+    position:relative;
+    margin-top:20px;
+    margin-left:20px;
+    width: 500px;
+    height:500px;
+}
+.trade-img2{
+    position:relative;
+    margin-top:20px;
+    margin-left:20px;
+    width: 500px;
+    height:500px;
+}
+.trade-img3{
+    position:relative;
+    margin-top:20px;
+    margin-left:20px;
+    width: 700px;
+    height:500px;
+}
+
+
+a{
+  text-decoration: none;
+  color: rgb(216, 164, 250);
+}
